@@ -92,7 +92,7 @@ console.log(`Updated Favorites List: ${favfoods}`);
 //4.e (STRETCH) TODO: Replace the second food in your array
 //      with another one of your favorite foods.
 //      Then log the updated array.
-favfoods.splice(1, 2, 'fries ');
+favfoods.splice(1, 1, 'fries ');
 console.log('Replaced burgers with fries');
 console.log(favfoods);
 
